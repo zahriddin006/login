@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: aquamarine;
+}
+.return-password{
+  display: none;
+  margin-top: 12px;
+  color: red;
+  font-weight: 500;
+}
+input{
+  outline: none;
+}
